@@ -1,0 +1,5 @@
+package kr.foundcake.calculator
+
+import androidx.compose.ui.window.ComposeUIViewController
+
+fun MainViewController() = ComposeUIViewController { App() }
